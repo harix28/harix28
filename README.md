@@ -1,28 +1,127 @@
 <h1 align="center">Hi 👋, I'm Hari Sharma</h1>
-<h3 align="center">Learning Data Analytics, Python & Web Development | Open to Opportunities Analytics and Python.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h&label=Profile%20views&color=0e75b6&style=flat" alt="h" /> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=BCA+Student;Aspiring+Data+Analyst;Python+Developer;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h" alt="h" /></a> </p>
+<h3 align="center">BCA Student | Aspiring Data Analyst & Python Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harix28&label=Profile%20views&color=0e75b6&style=flat" alt="harix28" />
+</p>
 
-- 📫 How to reach me **hsharmax38@gmail.com**
+<p align="center">
+  <a href="https://github.com/harix28">
+    <img src="https://img.shields.io/github/followers/harix28?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/hari-sharma-73637a2b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Hari%20Sharma-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:hsharmax58@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 👋 About Me
+
+👋 Hi, I'm **Hari Sharma** — a BCA student passionate about **Data Analytics, Python, and building real projects**.  
+I love solving problems using code and transforming data into insights.  
+Currently focused on **Python, NumPy, Pandas**, and real-world analytics tasks.  
+Always learning, experimenting, and growing. 🚀
+
+---
+
+## 🔭 What I’m Working On
+
+- Revising Python, NumPy, Pandas  
+- Building data analysis projects  
+- Learning React & Web Development  
+- Exploring automation (n8n, APIs)
+
+---
+
+## 🛠 Skills
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ hari-sharma-73637a2b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ hari-sharma-73637a2b1" height="30" width="40" /></a>
-<a href="https://kaggle.com/harisharma28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harisharma28" height="30" width="40" /></a>
-<a href="https://instagram.com/harix_.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harix_.28" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h&show_icons=true&locale=en&layout=compact" alt="h" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=h&show_icons=true&locale=en" alt="h" />
+## 📌 Featured Projects
 
+- 📊 **Sales Data Analysis**  
+  Analyzed sales dataset using Pandas & visualized insights  
+  🔗 https://github.com/harix28/sales-data-analysis  
+
+- 🐍 **NumPy Practice**  
+  Solved array problems and numerical tasks using NumPy  
+  🔗 https://github.com/harix28/numpy-practice  
+
+- 🧠 **UIDAI Hackathon Analysis**  
+  Exploratory data analysis on UIDAI enrollment, biometric & demographic data  
+  🔗 https://github.com/harix28/uidai-hackathon-analysis  
+
+- 🌐 **Web Portfolio**  
+  Personal portfolio built using HTML, CSS & JavaScript  
+  🔗 https://github.com/harix28/web-portfolio  
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: **hsharmax58@outlook.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/hari-sharma-73637a2b1  
+- 🐙 GitHub: https://github.com/harix28  
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harix28&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h&" alt="h" /></p>
+## 📊 GitHub Stats (Dark Mode)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harix28&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harix28&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harix28&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧠 Learning Roadmap 2026
+
+- ✔ Python Basics  
+- ✔ NumPy & Pandas  
+- 🔄 Data Visualization  
+- 🔄 SQL Advanced  
+- 🔜 Machine Learning  
+- 🔜 React Projects  
+
+---
+
+⭐ *Always open to learning, collaboration, and new opportunities!*
