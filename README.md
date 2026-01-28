@@ -46,7 +46,7 @@ Always learning, experimenting, and growing. 🚀
 
 ## 🛠 Skills
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -63,21 +63,26 @@ Always learning, experimenting, and growing. 🚀
 
 ## 📌 Featured Projects
 
-- 📊 **Sales Data Analysis**  
+- 📊 **Data Analysis**  
   Analyzed sales dataset using Pandas & visualized insights  
-  🔗 https://github.com/harix28/sales-data-analysis  
+  🔗 https://github.com/harix28/Data_Analysis-Projects
 
-- 🐍 **NumPy Practice**  
+- 🎓 **UIDAI Hacathon Project**
+  Analysis on UIDAI data using Pandas, NumPy, Metplotlib and Seaborn
+  🔗 https://github.com/harix28/UIDAI_hacathon_project
+
+  🐍 **Python Practise**
+  Solved and practise basics of Python.
+  🔗 https://github.com/harix28/Python_core  
+
+- 🐼 **Pandas Practise**
+  Solved and practise on data using NumPy
+  🔗 https://github.com/harix28/pandas-practise
+
+- 🔢 **NumPy Practice**  
   Solved array problems and numerical tasks using NumPy  
   🔗 https://github.com/harix28/numpy-practice  
-
-- 🧠 **UIDAI Hackathon Analysis**  
-  Exploratory data analysis on UIDAI enrollment, biometric & demographic data  
-  🔗 https://github.com/harix28/uidai-hackathon-analysis  
-
-- 🌐 **Web Portfolio**  
-  Personal portfolio built using HTML, CSS & JavaScript  
-  🔗 https://github.com/harix28/web-portfolio  
+ 
 
 ---
 
@@ -86,14 +91,6 @@ Always learning, experimenting, and growing. 🚀
 - 📧 Email: **hsharmax58@outlook.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/hari-sharma-73637a2b1  
 - 🐙 GitHub: https://github.com/harix28  
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harix28&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -113,14 +110,14 @@ Always learning, experimenting, and growing. 🚀
 
 ---
 
-## 🧠 Learning Roadmap 2026
+## 🧠 Data Analyst - Data Science 
+- ✔️ Excel
+- ✔️ Python Basics  
+- ✔️ NumPy & Pandas  
+- ✔️ Data Visualization and Power BI 
+- ✔️ SQL 
+- 🔜 Machine Learning 
 
-- ✔ Python Basics  
-- ✔ NumPy & Pandas  
-- 🔄 Data Visualization  
-- 🔄 SQL Advanced  
-- 🔜 Machine Learning  
-- 🔜 React Projects  
 
 ---
 
