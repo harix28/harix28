@@ -29,18 +29,17 @@
 ## 👋 About Me
 
 👋 Hi, I'm **Hari Sharma** — a BCA student passionate about **Data Analytics, Python, and building real projects**.  
-I love solving problems using code and transforming data into insights.  
-Currently focused on **Python, NumPy, Pandas**, and real-world analytics tasks.  
-Always learning, experimenting, and growing. 🚀
+    I love solving problems using code and transforming data into insights.  
+    Currently focused on **Python, NumPy, Pandas**, and real-world analytics tasks.  
+    Always learning, experimenting, and growing. 🚀
 
 ---
 
 ## 🔭 What I’m Working On
 
-- Revising Python, NumPy, Pandas  
+- Revising Python, NumPy, Pandas
+- Building SQL Database and project 
 - Building data analysis projects  
-- Learning React & Web Development  
-- Exploring automation (n8n, APIs)
 
 ---
 
@@ -71,7 +70,7 @@ Always learning, experimenting, and growing. 🚀
   Analysis on UIDAI data using Pandas, NumPy, Metplotlib and Seaborn
   🔗 https://github.com/harix28/UIDAI_hacathon_project
 
-  🐍 **Python Practise**
+- 🐍 **Python Practise**
   Solved and practise basics of Python.
   🔗 https://github.com/harix28/Python_core  
 
