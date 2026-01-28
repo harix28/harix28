@@ -62,7 +62,7 @@
 
 ## 📌 Featured Projects
 
-- 📊 **Data Analysis**  
+- 📊 **Data Analysis**
   Analyzed sales dataset using Pandas & visualized insights  
   🔗 https://github.com/harix28/Data_Analysis-Projects
 
@@ -78,7 +78,7 @@
   Solved and practise on data using NumPy
   🔗 https://github.com/harix28/pandas-practise
 
-- 🔢 **NumPy Practice**  
+- 🔢 **NumPy Practice**
   Solved array problems and numerical tasks using NumPy  
   🔗 https://github.com/harix28/numpy-practice  
  
