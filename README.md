@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Example: If you named the uploaded file "circular-profile.png" -->
-<img src="https://github.com/harix28.png" width="250" height="250" alt="Hari Sharma Profile" />
+<img align="right" src="https://github.com/harix28.png" width="220" alt="Hari Sharma Profile" style="border-radius: 50%; border: 4px solid #00F7FF;" />
+
 
 
   <h1 align="center">Hi there 👋, I'm Hari Sharma</h1>
@@ -33,26 +34,14 @@ To ensure the intelligent systems I architect are highly optimized and scalable,
 I am not just learning to train AI models; I am training to engineer robust, intelligent software from the ground up.
 
 ---
+### 🔥 Current Focus & Growth
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 What I'm Doing Now</h3>
-      <ul>
-        <li>🚀 <b>Core Engineering:</b> Grinding Data Structures & Algorithms in <b>Java</b>.</li>
-        <li>🌐 <b>Fullstack Web:</b> Mastering the <b>MERN</b> stack (MongoDB, Express, React, Node.js).</li>
-        <li>🧠 <b>AI & Data:</b> Deepening knowledge in <b>Python</b>, Pandas, and moving towards Machine Learning & Generative AI (LLMs, Vector DBs).</li>
-        <li>☁️ <b>Infrastructure:</b> Learning Docker & AWS for deployment.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">🏆 GitHub Trophies</h3>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=harix28&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="harix28" />
-      </a>
-    </td>
-  </tr>
-</table>
+*   🧠 **AI & Deep Learning:** Building predictive models, exploring Natural Language Processing (NLP), and developing **Retrieval-Augmented Generation (RAG)** pipelines.
+*   🚀 **Algorithmic Engineering:** Rigorously practicing advanced **Data Structures & Algorithms (DSA)** to optimize time/space complexity in software design.
+*   📊 **Advanced Data Science:** Performing statistical analysis, time-series forecasting, and deep Exploratory Data Analysis (EDA) using **Python & Pandas**.
+*   🗄️ **Database Architecture:** Designing efficient relational schemas, ETL processes, and writing highly optimized queries in **SQL & MySQL**.
+*   🌐 **Cloud & Infrastructure:** Architecting robust backend services and exploring application containerization using **Docker** and **AWS**.
+
 
 ---
 ### 🛠️ The Tech Arsenal
@@ -61,86 +50,101 @@ I am not just learning to train AI models; I am training to engineer robust, int
 
 **Programming Languages**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
 
 **Data Science & Analytics**
 <br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="35" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35" />
 
 **Web Development**
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="35" />
 
 **Databases**
 <br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
 
 **Tools & Infrastructure**
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35" />
 
 </div>
 
 ---
-
 ### 📌 Elite Projects & Analytics
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Data Engineering & Analytics</h3>
+      <h3>🤖 AI, Data & Analytics</h3>
       <ul>
-        <li><a href="https://github.com/harix28/UIDAI_hacathon_project"><b>UIDAI Hackathon Insights</b></a>: Advanced EDA on UIDAI datasets using Pandas, Matplotlib, and Seaborn.</li>
-        <li><a href="https://github.com/harix28/Data_Analysis-Projects"><b>Retail Sales Pipeline</b></a>: End-to-end data cleaning, transformation, and visualization project.</li>
+        <li><a href="https://github.com/harix28/Data_Analysis-Projects"><b>RFM Customer Segmentation</b></a>: Applied statistical modeling and EDA in Python to segment customers based on purchase behavior.</li>
+        <li><a href="https://github.com/harix28/UIDAI_hacathon_project"><b>UIDAI Hackathon Insights</b></a>: Deep-dive exploratory data analysis on UIDAI datasets to extract actionable insights.</li>
+        <li><a href="https://github.com/harix28/Data_Analysis-Projects"><b>Enterprise Sales Dashboard</b></a>: Engineered a multi-page, DAX-driven Power BI enterprise report analyzing ₹12.63bn in revenue.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🚧 Currently Building (Portfolio)</h3>
+      <h3>🌐 Web & Fullstack Development</h3>
       <ul>
-        <li><i><b>AI Document Intelligence Platform:</b></i> A fullstack MERN application integrating Python AI microservices and Vector Databases for RAG (Retrieval-Augmented Generation).</li>
+        <li><a href="#"><b>Gov Connect</b></a>: A web platform designed to streamline communication and digital services between citizens and government resources.</li>
+        <li><a href="#"><b>FairFlat</b></a>: A real estate/housing application built to help users find, evaluate, and manage flat listings efficiently.</li>
+        <li><a href="#"><b>Developer Portfolio</b></a>: A custom-built portfolio website designed to showcase my technical projects, skills, and professional journey.</li>
       </ul>
     </td>
   </tr>
 </table>
 
+
+
 ---
 
-### ⚡ GitHub Analytics
+### ⚡ GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harix28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harix28&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/harix28">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harix28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  </a>
+  <a href="https://github.com/harix28">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harix28&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harix28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <a href="https://github.com/harix28">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harix28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" />
+  </a>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-  <h3>🐍 My GitHub Activity Snake</h3>
-  <!-- Note: The snake animation requires a GitHub Action to generate the SVG. Until you set it up, this shows a cool placeholder -->
+  <h3>🐍 Contribution Snake Animation</h3>
+  <!-- Note: The snake animation requires a GitHub Action to generate the SVG. Until you set it up, this shows a cool pinned repo placeholder -->
   <img src="https://raw.githubusercontent.com/harix28/harix28/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" onerror="this.src='https://github-readme-stats.vercel.app/api/pin/?username=harix28&repo=harix28&theme=tokyonight'"/>
 </div>
 
+<br>
+
 ---
+
 <p align="center">
   <i><b>"Data is the new oil, but software engineering is the refinery."</b></i> <br><br>
   Let's connect and build the future. 🚀
