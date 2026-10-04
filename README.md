@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com.png" width="180" height="180" style="border-radius: 50%;" />
+<img align="right" src="https://github.com/harix28.png" width="180" height="180" style="border-radius: 50%;" />
 
 <h1>Hi there 👋, I'm Hari Sharma</h1>
 
