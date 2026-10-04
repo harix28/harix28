@@ -1,8 +1,6 @@
 <div align="center">
   <!-- Example: If you named the uploaded file "circular-profile.png" -->
-<img align="right" src="https://github.com/harix28.png" width="220" alt="Hari Sharma Profile" style="border-radius: 50%; border: 4px solid #00F7FF;" />
-
-
+<img align="center" src="https://github.com/harix28.png" width="220" alt="Hari Sharma Profile" />
 
   <h1 align="center">Hi there 👋, I'm Hari Sharma</h1>
 
