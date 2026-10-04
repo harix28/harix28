@@ -24,13 +24,15 @@
 
 ### 👨‍💻 The Journey & The Vision
 
-I am a driven **AI Fullstack Developer & Data Specialist** with a profound passion for the intersection of data science and software engineering. I believe that data is only as valuable as the systems built to deliver it. My vision goes beyond simply analyzing datasets and generating reports; my ultimate goal is to architect and deploy end-to-end, scalable web applications that integrate intelligent AI models to solve complex, real-world problems.
+I am an **MCA Student** and a driven **AI Developer & Data Specialist** with a profound passion for the intersection of data science, artificial intelligence, and software engineering. I believe that data is only as valuable as the intelligent systems built to harness it. My vision goes beyond simply analyzing datasets; my ultimate goal is to architect end-to-end, scalable applications that leverage Machine Learning and Deep Learning models to solve complex, real-world problems.
 
-Currently, I am intensely executing a highly structured **5-Month Master Plan** to forge my skills across the entire technology stack. This journey involves mastering core computer science fundamentals through Data Structures and Algorithms in **Java**, building robust and dynamic user interfaces with the **MERN Stack**, and engineering secure backend architectures. 
+Currently, I am intensely focused on mastering the advanced realms of Artificial Intelligence. By deepening my expertise in **Python**, data engineering, and complex mathematics, I am laying the groundwork to build next-generation software. My core focus spans across developing predictive **Machine Learning** models, exploring Neural Networks for **Deep Learning**, and building modern AI pipelines utilizing Large Language Models (LLMs) and Vector Databases. 
 
-Simultaneously, I am deep-diving into the world of Artificial Intelligence. By mastering **Python**, data manipulation, and advanced Machine Learning techniques, I am laying the groundwork to build next-generation software utilizing Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Vector Databases. 
+To ensure the intelligent systems I architect are highly optimized and scalable, I maintain a rigorous focus on core computer science fundamentals and mastering **Data Structures & Algorithms (DSA)**. 
 
-I am not just learning to code; I am training to build the intelligent systems of the future.
+I am not just learning to train AI models; I am training to engineer robust, intelligent software from the ground up.
+
+---
 
 <table>
   <tr>
