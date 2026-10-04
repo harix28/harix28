@@ -24,9 +24,13 @@
 
 ### 👨‍💻 The Journey & The Vision
 
-I am an aspiring **AI Fullstack Developer & Data Specialist** with a deep passion for bridging the gap between raw data and scalable web infrastructure. I don't just want to analyze data; I want to build the intelligent systems that serve it.
+I am a driven **AI Fullstack Developer & Data Specialist** with a profound passion for the intersection of data science and software engineering. I believe that data is only as valuable as the systems built to deliver it. My vision goes beyond simply analyzing datasets and generating reports; my ultimate goal is to architect and deploy end-to-end, scalable web applications that integrate intelligent AI models to solve complex, real-world problems.
 
-Currently executing a rigorous **5-Month Master Plan** to level up from foundations to advanced AI architecture.
+Currently, I am intensely executing a highly structured **5-Month Master Plan** to forge my skills across the entire technology stack. This journey involves mastering core computer science fundamentals through Data Structures and Algorithms in **Java**, building robust and dynamic user interfaces with the **MERN Stack**, and engineering secure backend architectures. 
+
+Simultaneously, I am deep-diving into the world of Artificial Intelligence. By mastering **Python**, data manipulation, and advanced Machine Learning techniques, I am laying the groundwork to build next-generation software utilizing Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Vector Databases. 
+
+I am not just learning to code; I am training to build the intelligent systems of the future.
 
 <table>
   <tr>
