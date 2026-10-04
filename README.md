@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/harix28.png" width="150" height="150" alt="Hari Sharma Profile" style="border-radius: 50%; border: 4px solid #00F7FF; box-shadow: 0 0 20px #00F7FF;" />
+  <img src="https://github.com/harix28.png" width="250" height="250" alt="Hari Sharma Profile" style="border-radius: 50%; border: 4px solid #00F7FF;" />
 
   <h1 align="center">Hi there 👋, I'm Hari Sharma</h1>
 
