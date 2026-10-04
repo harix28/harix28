@@ -57,7 +57,7 @@ I am not just learning to train AI models; I am training to engineer robust, int
 ---
 ### 🛠️ The Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 **Programming Languages**
 <br>
@@ -78,6 +78,7 @@ I am not just learning to train AI models; I am training to engineer robust, int
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
